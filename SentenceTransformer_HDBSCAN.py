@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 from collections import Counter
 
 # Paso 1: Cargar el archivo CSV
-ruta_archivo = "categoria_otro_filtrado.csv"  # ← Cambia esto por la ruta real
+ruta_archivo = "data_limpia.csv"  # ← Cambia esto por la ruta real
 df = pd.read_csv(ruta_archivo)
 
 
