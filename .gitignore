@@ -1,3 +1,6 @@
+# csv ignore
+Adhesion-6_agosto_2025.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
